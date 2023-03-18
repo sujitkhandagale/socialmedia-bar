@@ -1,0 +1,22 @@
+{
+  "name": "socialbar",
+  "version": "1.0.0",
+  "description": "github and website domain",
+  "main": "Socialmedia.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujitkhandagale/socialmedia-bar.git"
+  },
+  "author": "sujit khadnagale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujitkhandagale/socialmedia-bar/issues"
+  },
+  "homepage": "https://github.com/sujitkhandagale/socialmedia-bar#readme",
+  "dependencies": {
+    "socialbar": "^1.0.0"
+  }
+}
